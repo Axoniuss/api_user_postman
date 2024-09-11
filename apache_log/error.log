@@ -1,0 +1,71 @@
+AH00112: Warning: DocumentRoot [/var/www/html/public] does not exist
+[Wed Sep 11 09:36:20.802524 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.54 (Debian) PHP/7.4.33 configured -- resuming normal operations
+[Wed Sep 11 09:36:20.802612 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Sep 11 09:41:02.100431 2024] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00112: Warning: DocumentRoot [/var/www/html/public] does not exist
+[Wed Sep 11 09:41:04.114312 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.54 (Debian) PHP/7.4.33 configured -- resuming normal operations
+[Wed Sep 11 09:41:04.115896 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Sep 11 09:55:05.924363 2024] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00112: Warning: DocumentRoot [/var/www/html/public] does not exist
+[Wed Sep 11 09:55:07.656490 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.54 (Debian) PHP/7.4.33 configured -- resuming normal operations
+[Wed Sep 11 09:55:07.656579 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Sep 11 10:28:06.493656 2024] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00112: Warning: DocumentRoot [/var/www/html/public] does not exist
+[Wed Sep 11 10:28:08.816156 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.54 (Debian) PHP/7.4.33 configured -- resuming normal operations
+[Wed Sep 11 10:28:08.816424 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Sep 11 10:36:28.092337 2024] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00112: Warning: DocumentRoot [/var/www/html/public] does not exist
+[Wed Sep 11 10:38:48.016222 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.54 (Debian) PHP/7.4.33 configured -- resuming normal operations
+[Wed Sep 11 10:38:48.016386 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Sep 11 10:40:02.024451 2024] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00112: Warning: DocumentRoot [/var/www/html/public] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.21.0.4. Set the 'ServerName' directive globally to suppress this message
+[Wed Sep 11 10:56:19.786211 2024] [unixd:alert] [pid 17] AH02155: getpwuid: couldn't determine user name from uid 1000, you probably need to modify the User directive
+[Wed Sep 11 10:56:19.786823 2024] [unixd:alert] [pid 18] AH02155: getpwuid: couldn't determine user name from uid 1000, you probably need to modify the User directive
+[Wed Sep 11 10:56:19.787624 2024] [unixd:alert] [pid 19] AH02155: getpwuid: couldn't determine user name from uid 1000, you probably need to modify the User directive
+[Wed Sep 11 10:56:19.788335 2024] [unixd:alert] [pid 20] AH02155: getpwuid: couldn't determine user name from uid 1000, you probably need to modify the User directive
+[Wed Sep 11 10:56:19.788865 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.54 (Debian) PHP/7.4.33 configured -- resuming normal operations
+[Wed Sep 11 10:56:19.789206 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Sep 11 10:56:19.789117 2024] [unixd:alert] [pid 21] AH02155: getpwuid: couldn't determine user name from uid 1000, you probably need to modify the User directive
+[Wed Sep 11 10:56:32.804641 2024] [unixd:alert] [pid 22] AH02155: getpwuid: couldn't determine user name from uid 1000, you probably need to modify the User directive
+[Wed Sep 11 10:57:04.472658 2024] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00112: Warning: DocumentRoot [/var/www/html/public] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.22.0.4. Set the 'ServerName' directive globally to suppress this message
+[Wed Sep 11 10:57:26.835916 2024] [unixd:alert] [pid 17] AH02155: getpwuid: couldn't determine user name from uid 1000, you probably need to modify the User directive
+[Wed Sep 11 10:57:26.836235 2024] [unixd:alert] [pid 18] AH02155: getpwuid: couldn't determine user name from uid 1000, you probably need to modify the User directive
+[Wed Sep 11 10:57:26.836893 2024] [unixd:alert] [pid 19] AH02155: getpwuid: couldn't determine user name from uid 1000, you probably need to modify the User directive
+[Wed Sep 11 10:57:26.837355 2024] [unixd:alert] [pid 20] AH02155: getpwuid: couldn't determine user name from uid 1000, you probably need to modify the User directive
+[Wed Sep 11 10:57:26.838387 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.54 (Debian) PHP/7.4.33 configured -- resuming normal operations
+[Wed Sep 11 10:57:26.838550 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Sep 11 10:57:26.839137 2024] [unixd:alert] [pid 21] AH02155: getpwuid: couldn't determine user name from uid 1000, you probably need to modify the User directive
+[Wed Sep 11 10:57:34.981142 2024] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00112: Warning: DocumentRoot [/var/www/html/public] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.23.0.4. Set the 'ServerName' directive globally to suppress this message
+[Wed Sep 11 11:37:16.707783 2024] [unixd:alert] [pid 18] AH02155: getpwuid: couldn't determine user name from uid 1000, you probably need to modify the User directive
+[Wed Sep 11 11:37:16.708231 2024] [unixd:alert] [pid 19] AH02155: getpwuid: couldn't determine user name from uid 1000, you probably need to modify the User directive
+[Wed Sep 11 11:37:16.708638 2024] [unixd:alert] [pid 20] AH02155: getpwuid: couldn't determine user name from uid 1000, you probably need to modify the User directive
+[Wed Sep 11 11:37:16.709005 2024] [unixd:alert] [pid 21] AH02155: getpwuid: couldn't determine user name from uid 1000, you probably need to modify the User directive
+[Wed Sep 11 11:37:16.709121 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.54 (Debian) PHP/7.4.33 configured -- resuming normal operations
+[Wed Sep 11 11:37:16.709197 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Sep 11 11:37:16.709450 2024] [unixd:alert] [pid 22] AH02155: getpwuid: couldn't determine user name from uid 1000, you probably need to modify the User directive
+[Wed Sep 11 11:37:43.957273 2024] [unixd:alert] [pid 23] AH02155: getpwuid: couldn't determine user name from uid 1000, you probably need to modify the User directive
+[Wed Sep 11 11:38:24.870470 2024] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00112: Warning: DocumentRoot [/var/www/html/public] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.4. Set the 'ServerName' directive globally to suppress this message
+[Wed Sep 11 11:38:42.921308 2024] [unixd:alert] [pid 16] AH02155: getpwuid: couldn't determine user name from uid 1000, you probably need to modify the User directive
+[Wed Sep 11 11:38:42.922299 2024] [unixd:alert] [pid 17] AH02155: getpwuid: couldn't determine user name from uid 1000, you probably need to modify the User directive
+[Wed Sep 11 11:38:42.925207 2024] [unixd:alert] [pid 18] AH02155: getpwuid: couldn't determine user name from uid 1000, you probably need to modify the User directive
+[Wed Sep 11 11:38:42.925773 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.54 (Debian) PHP/7.4.33 configured -- resuming normal operations
+[Wed Sep 11 11:38:42.925869 2024] [unixd:alert] [pid 19] AH02155: getpwuid: couldn't determine user name from uid 1000, you probably need to modify the User directive
+[Wed Sep 11 11:38:42.925906 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Sep 11 11:38:42.926274 2024] [unixd:alert] [pid 20] AH02155: getpwuid: couldn't determine user name from uid 1000, you probably need to modify the User directive
+[Wed Sep 11 11:39:11.268301 2024] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00112: Warning: DocumentRoot [/var/www/html/public] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.20.0.4. Set the 'ServerName' directive globally to suppress this message
+[Wed Sep 11 11:39:23.937530 2024] [unixd:alert] [pid 17] AH02155: getpwuid: couldn't determine user name from uid 1000, you probably need to modify the User directive
+[Wed Sep 11 11:39:23.937994 2024] [unixd:alert] [pid 18] AH02155: getpwuid: couldn't determine user name from uid 1000, you probably need to modify the User directive
+[Wed Sep 11 11:39:23.938365 2024] [unixd:alert] [pid 19] AH02155: getpwuid: couldn't determine user name from uid 1000, you probably need to modify the User directive
+[Wed Sep 11 11:39:23.938578 2024] [unixd:alert] [pid 20] AH02155: getpwuid: couldn't determine user name from uid 1000, you probably need to modify the User directive
+[Wed Sep 11 11:39:23.938629 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.54 (Debian) PHP/7.4.33 configured -- resuming normal operations
+[Wed Sep 11 11:39:23.938676 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Sep 11 11:39:23.938963 2024] [unixd:alert] [pid 21] AH02155: getpwuid: couldn't determine user name from uid 1000, you probably need to modify the User directive
