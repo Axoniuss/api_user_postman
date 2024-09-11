@@ -5,9 +5,9 @@
 
 ## Установка
 
-1. **Клонируйте репозиторий![Снимок экрана 2024-09-11 150819](https://github.com/user-attachments/assets/6e6be030-bd12-4912-90ac-36f10bcf406c)
+1. **Клонируйте репозиторий!
 
 2. **Установите  Docker и Docker Compose
 3.  docker-compose up --build -d && php artisan serve 
-![2](https://github.com/user-attachments/assets/dd8f3cd0-504f-4929-8360-ccd8ee3cd3ad)
-![1](https://github.com/user-attachments/assets/11adb787-0453-486a-9054-719e37cc7bc2)
+![2](https://github.com/user-attachments/assets/1481df63-3650-400a-9a82-16703dd569a7)
+![1](https://github.com/user-attachments/assets/f02813cf-d4d7-4dbf-927c-4910bde2d497)
