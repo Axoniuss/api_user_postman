@@ -17,7 +17,7 @@ class User extends Authenticatable
      * @var array<int, string>
      */
     protected $fillable = [
-        'name',       // Если поле "name" требуется, оставьте, иначе уберите
+        'name',     
         'email',
         'password',
         'gender',     // Добавляем 'gender' для массового заполнения

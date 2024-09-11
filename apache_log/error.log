@@ -69,3 +69,4 @@ AH00558: apache2: Could not reliably determine the server's fully qualified doma
 [Wed Sep 11 11:39:23.938629 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.54 (Debian) PHP/7.4.33 configured -- resuming normal operations
 [Wed Sep 11 11:39:23.938676 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
 [Wed Sep 11 11:39:23.938963 2024] [unixd:alert] [pid 21] AH02155: getpwuid: couldn't determine user name from uid 1000, you probably need to modify the User directive
+[Wed Sep 11 11:59:26.448391 2024] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
